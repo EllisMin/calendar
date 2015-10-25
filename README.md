@@ -1,5 +1,4 @@
 # calendar
-calendar app
 
 Add the event with event name and the time selected
 
